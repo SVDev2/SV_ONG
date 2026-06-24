@@ -1,8 +1,8 @@
 # SV ONG
 
-> Uma iniciativa open source para construir uma organização comunitária voltada a ações sociais, ambientais e humanitárias, com transparência, colaboração e tecnologia.
+ Uma iniciativa open source para construir uma organização comunitária voltada a ações sociais, ambientais e humanitárias, com transparência, colaboração e tecnologia.
 
-> ⚠️ Este projeto está em fase inicial de desenvolvimento.
+ ⚠️ Este projeto está em fase inicial de desenvolvimento.
 
 ---
 
@@ -14,7 +14,7 @@ Você não precisa ser um especialista. Toda ajuda conta.
 
 ---
 
-# Nossa missão
+## Nossa missão
 
 A SV ONG nasceu com o objetivo de criar uma comunidade capaz de desenvolver soluções para ajudar pessoas, comunidades e o meio ambiente.
 
@@ -22,7 +22,7 @@ O projeto começa como uma plataforma digital aberta, construída de forma colab
 
 ---
 
-# Nossa visão
+## Nossa visão
 
 Queremos construir uma organização que:
 
@@ -35,7 +35,7 @@ Queremos construir uma organização que:
 
 ---
 
-# Alguns exemplos de ações futuras
+## Alguns exemplos de ações futuras
 
 Estas são apenas ideias iniciais e poderão mudar conforme o projeto evoluir.
 
@@ -51,7 +51,7 @@ Estas são apenas ideias iniciais e poderão mudar conforme o projeto evoluir.
 
 ---
 
-# Filosofia do projeto
+## Filosofia do projeto
 
 Este projeto acredita que:
 
@@ -62,7 +62,7 @@ Este projeto acredita que:
 
 ---
 
-# Transparência
+## Transparência
 
 A transparência será um dos pilares da SV ONG.
 
@@ -77,7 +77,7 @@ Quando houver arrecadações, pretendemos divulgar informações claras sobre:
 
 ---
 
-# Contribuindo
+## Contribuindo
 
 Toda ajuda é bem-vinda.
 
@@ -98,9 +98,9 @@ Leia o arquivo `CONTRIBUTING.md` para saber mais.
 
 ---
 
-# Créditos
+## Créditos
 
-## Reconhecimento aos colaboradores
+### Reconhecimento aos colaboradores
 
 A **SV ONG** é construída pela comunidade.
 Todos os colaboradores que tiverem suas contribuições aceitas serão reconhecidos na lista de colaboradores do projeto, respeitando sua participação e autoria.
@@ -108,7 +108,7 @@ A autoria de cada contribuição permanece com seu respectivo autor, enquanto o 
 
 ---
 
-# Tecnologias
+## Tecnologias
 
 Atualmente o projeto poderá utilizar tecnologias como:
 
@@ -124,7 +124,7 @@ Contribuições utilizando diferentes tecnologias são bem-vindas, desde que est
 
 ---
 
-# Status
+## Status
 
 🚧 Em desenvolvimento.
 
@@ -132,7 +132,7 @@ Ainda estamos construindo a estrutura inicial do projeto.
 
 ---
 
-# 📜 Licença
+## 📜 Licença
 
 Este projeto está licenciado sob a **Apache License 2.0**.
 
@@ -140,7 +140,7 @@ Você pode usar, modificar e distribuir este projeto, desde que siga os termos d
 
 ---
 
-# Aviso
+## Aviso
 
 Este projeto ainda não representa uma ONG oficialmente registrada.
 
