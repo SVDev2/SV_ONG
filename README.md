@@ -175,6 +175,56 @@ Sugestões, ideias e melhorias também podem ser enviadas via Issues.
 
 ---
 
+## 📁 Estrutura do projeto
+
+```SV_ONG/
+        LICENSE
+        README.md
+        anotacao.txt
+        config.py
+        app.py
+        templates/
+            auth/
+                cadastrar.html
+                entrar.html
+                recuperar_senha.html
+            includes/
+                banner_cookies.html
+                footer.html
+                slides.html
+            pages/
+                doacao.html
+                home.html
+                privacidade.html
+                sobre.html
+                termos.html
+            settings/
+                configuracoes.html
+        routes/
+            auth.py
+            doacoes.py
+            pages.py
+        core/
+            database/
+                banco.py
+                relatorios.py
+            managers/
+                login.py
+            services/
+                auth_service.py
+```
+---
+
+## 📸 Demonstração do sistema
+
+### Assim que possivel disponibilizaremos imagens
+
+---
+
 Obrigado por visitar o projeto.
 
 Toda sugestão, crítica construtiva ou contribuição será muito bem-vinda.
+
+---
+
+© 2026 SV ONG.
